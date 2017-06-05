@@ -3,9 +3,9 @@
  * inputTags
  *
  * @copyright funsent Inc.
- * @link      http://www.funsent.com/libs/inputTags/
+ * @link      https://github.com/funsent/inputTags
  * @author    yanggf <2018708@qq.com>
- * @version   0.99
+ * @version   1.0alpha
  */
 
 ;(function($){
