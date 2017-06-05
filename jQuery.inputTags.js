@@ -4,8 +4,8 @@
  *
  * @copyright funsent Inc.
  * @link      https://github.com/funsent/inputTags
- * @author    yanggf <2018708@qq.com> $name$ $email$
- * @version   1.0alpha $Id$ $Date$
+ * @author    yanggf <2018708@qq.com>
+ * @version   1.0alpha $Id$
  */
 
 ;(function($){
