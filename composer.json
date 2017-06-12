@@ -1,0 +1,14 @@
+{
+    "name": "funsent/inputtags",
+    "description": "input tags",
+    "require": {
+        "topthink/thinkphp": "^3.2"
+    },
+    "license": "1.0a",
+    "authors": [
+        {
+            "name": "yanggf",
+            "email": "2018708@qq.com"
+        }
+    ]
+}
